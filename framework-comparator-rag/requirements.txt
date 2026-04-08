@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
